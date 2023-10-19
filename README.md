@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FCNA-TECH
--    I’m interested in Software and Network Developent and Hardware Engineering
--    I’m currently learning Python, Arduino, HTML and Processing
+-    I’m interested in Software Developent and Engineering
+-    I’m currently learning C#, Python, Arduino, HTML and Processing
 -    I will be storing my personal projects on this account and may even make some of them public to bookmark/capture my progress through the years
 -    How to reach me: Email, Github
 
